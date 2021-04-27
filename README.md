@@ -1,4 +1,4 @@
-# TSF-Internship  Data-Science-and-Business-Analytics-Intern
+# Internship    Data-Science-and-Business-Analytics-Intern
 
 These are the tasks assigned to me in the Data Science and Analytics field :
 
