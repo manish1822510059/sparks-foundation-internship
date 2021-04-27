@@ -7,4 +7,6 @@ These are the tasks assigned to me in the Data Science and Analytics field :
    1. Data can be found at http://bit.ly/w-data.
    2. It is a simple linear regression task involving two features.
 
+## TASK 2  :
+
 
